@@ -57,29 +57,24 @@ li a {
   border-right: solid 3px #333;
 }
 
-#menubar {
-  height: 100%;
-  border-right: solid 3px #333;
-}
-
 h1 {
   font-size: 1.8rem;
   text-align: center;
   padding: 1rem;
 }
 
-#main-intoduction {
+#abschnit1 {
   position: absolute;
   margin-left: 320px;
   padding: 2rem 1rem;
 }
 
-#main-intoduction .intro-section header {
+#abschnit1 .intro-section header {
   font-size: 2rem;
   padding: 1rem 0;
 }
 
-#main-introduction .intro-section .main-article {
+#abschnit1 .intro-section .main-article {
   padding-left: 1.5rem;
   margin-bottom: 0.5rem;
   color: #222;
