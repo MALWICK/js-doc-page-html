@@ -79,3 +79,31 @@ h1 {
   margin-bottom: 0.5rem;
   color: #222;
 }
+
+#abschnit1 .into-section .main-article p {
+  margin-bottom: 1rem;
+}
+
+#abschnit1 .intro-section .main-article #items {
+  margin: 1.3rem 0 0 1.2rem;
+}
+
+#main-body .intro-section .main-article #items li {
+  margin-bottom: 1rem;
+}
+
+ul {
+  margin-left: 2rem;
+}
+
+#ref {
+  text-decoration: none;
+}
+
+code {
+  display: block;
+  text-align: left;
+  position: relative;
+  line-height: 2;
+  background-color: #f0e9df;
+}
