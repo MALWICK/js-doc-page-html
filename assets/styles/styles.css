@@ -63,32 +63,26 @@ h1 {
   padding: 1rem;
 }
 
-#abschnit1 {
-  position: absolute;
-  margin-left: 320px;
-  padding: 2rem 1rem;
-}
-
-#abschnit1 .intro-section header {
+#abschnit1 .satze header {
   font-size: 2rem;
   padding: 1rem 0;
 }
 
-#abschnit1 .intro-section .main-article {
+#abschnit1 .satze .main-article {
   padding-left: 1.5rem;
   margin-bottom: 0.5rem;
   color: #222;
 }
 
-#abschnit1 .into-section .main-article p {
+#abschnit1 .satze .main-article p {
   margin-bottom: 1rem;
 }
 
-#abschnit1 .intro-section .main-article #items {
+#abschnit1 .satze .main-article #items {
   margin: 1.3rem 0 0 1.2rem;
 }
 
-#main-body .intro-section .main-article #items li {
+#main-body .satze .main-article #items li {
   margin-bottom: 1rem;
 }
 
